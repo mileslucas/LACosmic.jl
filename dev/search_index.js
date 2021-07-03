@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = LACosmic","category":"page"},{"location":"#LACosmic.jl","page":"Home","title":"LACosmic.jl","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"(Image: Code)) (Image: Build Status) (Image: Coverage) (Image: License)","category":"page"},{"location":"","page":"Home","title":"Home","text":"Documentation for LACosmic.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [LACosmic]","category":"page"}]
+}
